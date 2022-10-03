@@ -8,5 +8,5 @@
 
 - **Email | mraz3068@gmail.com**
 - **Resume | [이력서](https://www.notion.so/mraz3068/40c99214f9e242de801149aebed17b1f)**
-- **Blog | [https://velog.io/@mraz3068)**
-- **Github | [https://github.com/SDB016](https://github.com/easyhooon)**
+- **Blog | [https://velog.io/@mraz3068](https://velog.io/@mraz3068)**
+- **Github | [https://github.com/easyhooon](https://github.com/easyhooon)**
