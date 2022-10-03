@@ -10,3 +10,6 @@
 - **Resume | [이력서](https://www.notion.so/mraz3068/40c99214f9e242de801149aebed17b1f)**
 - **Blog | [https://velog.io/@mraz3068](https://velog.io/@mraz3068)**
 - **Github | [https://github.com/easyhooon](https://github.com/easyhooon)**
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyhooon&hide=javascript,makefile,HTML&layout=compact)](https://github.com/easyhooon/github-readme-stats)
