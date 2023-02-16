@@ -4,9 +4,15 @@
 
 ### **Introduction**
 
-- 반갑습니다! 안드로이드 개발하는 이지훈입니다.
+- 반갑습니다! 안드로이드 개발자 이지훈입니다.
 - 제가 만든 앱을 계속 발전 시키는 것을 좋아합니다. 
-- 새로운 기술을 배우는 것에 관심이 있습니다. 새로운 기술을 사용해보며 기존의 기술을 사용할때의 차이점과 장단점을 이해해보고 있습니다.
+- 새로운 기술을 배우는 것에 관심이 있습니다. 새로운 기술을 사용해보며 기존의 기술과의 차이점과 각각의 장단점을 이해해보고 있습니다.
+- 지속적인 성장을 위해 도전하고, 노력하고 있습니다🔥
+
+```
+실패는 최종 결과가 아니라 성장 과정이다. 
+실패도 성공 만큼이나 중요하다. 실패를 해야지만 성장을 할 수 있기 때문이다.
+```
 
 ### **Contact & Channel**
 
@@ -21,8 +27,8 @@
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white">
 
 ### **Education & Experience**
 ```🏫``` Konkuk University / Chemistry (2017~2019) -> Computer Science & Engineering (2019 ~ )<br/>
