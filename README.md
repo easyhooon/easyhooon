@@ -49,3 +49,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyhooon&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&bg_color=30,b3bfff,ccdaff&title_color=fff&text_color=fff&&hide=javascript,makefile,HTML&layout=compact)](https://github.com/easyhooon/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mraz3068)](https://solved.ac/mraz3068)
+
+[![](https://banner.codetree.ai/v1/banner/mraz3068)](https://www.codetree.ai/profiles/mraz3068)
