@@ -46,7 +46,7 @@
 [![easyhooon's github stats](https://github-readme-stats.vercel.app/api?username=easyhooon&count_private=true&custom_title=easyhooon&nbsp;&bg_color=30,b3bfff,ccdaff&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyhooon&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&bg_color=30,b3bfff,ccdaff&title_color=fff&text_color=fff&&hide=javascript,makefile,HTML&layout=compact)](https://github.com/easyhooon/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyhooon&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&bg_color=30,b3bfff,ccdaff&title_color=fff&text_color=fff&&hide=makefile,HTML)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mraz3068)](https://solved.ac/mraz3068)
 
