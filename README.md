@@ -15,10 +15,8 @@
 ### **Contact & Channel**
 
 - **Email | mraz3068@gmail.com**
-- **Resume | [이력서](https://www.notion.so/mraz3068/40c99214f9e242de801149aebed17b1f)**
+- **Portfolio | [포트폴리오](https://www.notion.so/mraz3068/12a1067917dc4885bb5570bf5fda9f86)**
 - **Blog | [https://velog.io/@mraz3068](https://velog.io/@mraz3068)**
-- **Github | [https://github.com/easyhooon](https://github.com/easyhooon)**
-
 
 ### **Skills & Stacks**
 <div>
