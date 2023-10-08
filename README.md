@@ -32,6 +32,9 @@
 <code><img width="13" height="13" alt="image" src="https://user-images.githubusercontent.com/51016231/200248371-f9ce4b01-b6c4-4ffa-8264-06b186033901.png"></code> Study Encouragement Service [@나나공](https://play.google.com/store/apps/details?id=com.depromeet.sloth)<br/>
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"></code> NEXTERS 23th Android Developer (2023.07 ~ 2023.08)<br/>
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/12b78f23-1a57-49c7-951b-ce8fbfc73aa9.png"></code> Goal Achieving Service [@반다라트](https://play.google.com/store/apps/details?id=com.nexters.bandalart.android)<br/>
+
+### Latest Blog Article
+- [&lpar;Android&rpar; Feature 모듈간 순환 참조 이슈를 해결하는 방법](https://velog.io/@mraz3068/Feature-%EB%AA%A8%EB%93%88%EA%B0%84-%EC%88%9C%ED%99%98-%EC%B0%B8%EC%A1%B0-%EC%9D%B4%EC%8A%88%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   
   
 ### **Certificates**
