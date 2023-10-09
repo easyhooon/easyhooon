@@ -35,6 +35,10 @@
 
 ### Latest Blog Article
 - [&lpar;Android&rpar; Feature 모듈간 순환 참조 이슈를 해결하는 방법](https://velog.io/@mraz3068/Feature-%EB%AA%A8%EB%93%88%EA%B0%84-%EC%88%9C%ED%99%98-%EC%B0%B8%EC%A1%B0-%EC%9D%B4%EC%8A%88%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+- [&lpar;Android&rpar; Google Social Login 관련 서로 다른 두 IdToken 비교](https://velog.io/@mraz3068/%EA%B5%AC%EA%B8%80-One-Tap-Login-%EA%B4%80%EB%A0%A8)
+- [&lpar;Android&rpar; Compose 에서 TextField를 이용하여 자동 검색 기능 구현 하기 (기존 xml 에서의 방식과 비교) - 2](https://velog.io/@mraz3068/Feature-%EB%AA%A8%EB%93%88%EA%B0%84-%EC%88%9C%ED%99%98-%EC%B0%B8%EC%A1%B0-%EC%9D%B4%EC%8A%88%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+- [&lpar;Android&rpar; Compose 에서 TextField를 이용하여 자동 검색 기능 구현 하기 (기존 xml 에서의 방식과 비교) - 1](https://velog.io/@mraz3068/Compose-%EC%97%90%EC%84%9C-TextField%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9E%90%EB%8F%99-%EA%B2%80%EC%83%89-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84-%ED%95%98%EA%B8%B0)
+- [&lpar;Android&rpar; Compose Navigation Argument 로 url 전달하기](https://velog.io/@mraz3068/Feature-%EB%AA%A8%EB%93%88%EA%B0%84-%EC%88%9C%ED%99%98-%EC%B0%B8%EC%A1%B0-%EC%9D%B4%EC%8A%88%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   
   
 ### **Certificates**
