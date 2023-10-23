@@ -34,10 +34,10 @@
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/12b78f23-1a57-49c7-951b-ce8fbfc73aa9.png"></code> Goal Achieving Service [@반다라트](https://play.google.com/store/apps/details?id=com.nexters.bandalart.android)<br/>
 
 ### Latest Blog Article
+- [&lpar;Android&rpar; Jetpack Compose Paging3 LoadStateFooter 구현 방법](https://velog.io/@mraz3068/Compose-Paging3-LoadStateFooter-%EA%B5%AC%ED%98%84-%EB%B0%A9%EB%B2%95)
+- [&lpar;Android&rpar; Custom Splash Screen 만드는 방법(Splash Screen API을 사용하는 경우)](https://velog.io/@mraz3068/Android-Custom-SplashScreen-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95Splash-Screen-API%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
 - [&lpar;Android&rpar; Feature 모듈간 순환 참조 이슈를 해결하는 방법](https://velog.io/@mraz3068/Feature-%EB%AA%A8%EB%93%88%EA%B0%84-%EC%88%9C%ED%99%98-%EC%B0%B8%EC%A1%B0-%EC%9D%B4%EC%8A%88%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [&lpar;Android&rpar; ListView Animation 구현 비교(XML vs Jetpack Compose)](https://velog.io/@mraz3068/XML-VS-Compose-Animation)
-- [&lpar;Android&rpar; Compose 에서 TextField를 이용하여 자동 검색 기능 구현 하기 (기존 xml 에서의 방식과 비교) - 2](https://velog.io/@mraz3068/Temp)
-- [&lpar;Android&rpar; Compose 에서 TextField를 이용하여 자동 검색 기능 구현 하기 (기존 xml 에서의 방식과 비교) - 1](https://velog.io/@mraz3068/Compose-%EC%97%90%EC%84%9C-TextField%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9E%90%EB%8F%99-%EA%B2%80%EC%83%89-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84-%ED%95%98%EA%B8%B0)
 - [&lpar;Android&rpar; Compose Navigation Argument 로 url 전달하기](https://velog.io/@mraz3068/Compose-Navigation-Argument-%EB%A1%9C-url-%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0)
   
   
