@@ -41,9 +41,9 @@
 - [&lpar;Android&rpar; ListView Animation 구현 비교(XML vs Jetpack Compose)](https://velog.io/@mraz3068/XML-VS-Compose-Animation)
   
 ### **Certificates**
-|자격증명|일자|
-|:----:|:----:|
-|정보처리기사|2022-09-02|
+|자격증명|주최기관|일자|
+|:----:|:----:|:----:|
+|정보처리기사|한국산업인력공단|2022-09-02|
   
 ---
 
