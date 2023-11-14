@@ -18,13 +18,21 @@
 - **Portfolio | [포트폴리오](https://www.notion.so/mraz3068/12a1067917dc4885bb5570bf5fda9f86)**
 - **Blog | [https://velog.io/@mraz3068](https://velog.io/@mraz3068)**
 
-### **Skills & Stacks**
+
+
+### **Tech Stacks**
 <div>
-  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
   <img src="https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Java-11B48A?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white">
+
+### **Activity**
+
+[<img src="https://user-images.githubusercontent.com/70064912/192104232-022954a2-4cc7-4fe8-861e-5a83a1a49e30.png" width="50" height="50">](http://teamnexters.com/)
+[<img src="https://github.com/easyhooon/easyhooon/assets/51016231/b7a40a20-f565-428f-a3c4-3c72c552cd6d" width="50" height="50">](https://www.depromeet.com/)
 
 ### **Education & Experience**
 ```🏫``` Konkuk University / Chemistry (2017.03 ~ 2019.02) -> Computer Science & Engineering (2019.03 ~ 2024.02)<br/>
