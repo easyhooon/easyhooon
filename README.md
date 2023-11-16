@@ -42,11 +42,11 @@
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/12b78f23-1a57-49c7-951b-ce8fbfc73aa9.png"></code> Goal Achieving Service [@반다라트](https://play.google.com/store/apps/details?id=com.nexters.bandalart.android)<br/>
 
 ### Latest Blog Article
+- [&lpar;Android&rpar; Jetpack Compose 를 사용하여 채팅 화면 UI 구현하기](https://velog.io/@mraz3068/Jetpack-Compose-Chat-Screen-Implementation)
 - [&lpar;Android&rpar; Jetpack Compose 에서 절대로 해서는 안되는 20가지 실수](https://velog.io/@mraz3068/Jetpack-Compose-%EC%97%90%EC%84%9C-%EC%A0%88%EB%8C%80%EB%A1%9C-%ED%95%B4%EC%84%9C%EB%8A%94-%EC%95%88%EB%90%98%EB%8A%94-20%EA%B0%80%EC%A7%80-15)
 - [&lpar;Android&rpar; Jetpack Compose Paging3 LoadStateFooter 구현 방법](https://velog.io/@mraz3068/Jetpack-Compose-Paging3-LoadStateFooter-Implementation)
 - [&lpar;Android&rpar; Custom Splash Screen 만드는 방법(Splash Screen API을 사용하는 경우)](https://velog.io/@mraz3068/Android-Custom-SplashScreen-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95Splash-Screen-API%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
 - [&lpar;Android&rpar; Feature 모듈간 순환 참조 이슈를 해결하는 방법](https://velog.io/@mraz3068/Feature-%EB%AA%A8%EB%93%88%EA%B0%84-%EC%88%9C%ED%99%98-%EC%B0%B8%EC%A1%B0-%EC%9D%B4%EC%8A%88%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
-- [&lpar;Android&rpar; ListView Animation 구현 비교(XML vs Jetpack Compose)](https://velog.io/@mraz3068/XML-VS-Compose-Animation)
   
 ### **Certificates**
 |자격증명|주최기관|일자|
