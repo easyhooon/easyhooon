@@ -53,7 +53,7 @@
 |:----:|:----:|:----:|
 |정보처리기사|한국산업인력공단|2022-09-02|
   
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=easyhooon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![easyhooon's github stats](https://github-readme-stats.vercel.app/api?username=easyhooon&count_private=true&custom_title=easyhooon&nbsp;&bg_color=30,b3bfff,ccdaff&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
