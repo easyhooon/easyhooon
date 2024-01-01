@@ -46,7 +46,7 @@
 - Contributor - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 
 ### Latest Blog Article
-- [&lpar;Android&rpar; Jetpack Compose 를 사용하여 채팅 화면 UI 구현하기](https://velog.io/@mraz3068/Jetpack-Compose-Chat-Screen-Implementation)
+- [&lpar;Compose Multiplatform&rpar; Coil 을 이용한 Network Image Load](https://velog.io/@mraz3068/How-to-load-Network-Image-by-coil-in-Compose-Multiplatform)
 - [&lpar;Android&rpar; Jetpack Compose 에서 절대로 해서는 안되는 20가지 실수](https://velog.io/@mraz3068/Jetpack-Compose-%EC%97%90%EC%84%9C-%EC%A0%88%EB%8C%80%EB%A1%9C-%ED%95%B4%EC%84%9C%EB%8A%94-%EC%95%88%EB%90%98%EB%8A%94-20%EA%B0%80%EC%A7%80-15)
 - [&lpar;Android&rpar; Jetpack Compose Paging3 LoadStateFooter 구현 방법](https://velog.io/@mraz3068/Jetpack-Compose-Paging3-LoadStateFooter-Implementation)
 - [&lpar;Android&rpar; Custom Splash Screen 만드는 방법(Splash Screen API을 사용하는 경우)](https://velog.io/@mraz3068/Android-Custom-SplashScreen-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95Splash-Screen-API%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
