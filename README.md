@@ -43,6 +43,9 @@
 ### Open Source Project
 - Contributor - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 
+### Speaker Deck
+- https://speakerdeck.com/easyhooon
+
 ### Latest Blog Article
 - [&lpar;Compose Multiplatform&rpar; Coil 을 이용한 Network Image Load](https://velog.io/@mraz3068/How-to-load-Network-Image-by-coil-in-Compose-Multiplatform)
 - [&lpar;Android&rpar; Jetpack Compose 에서 절대로 해서는 안되는 20가지 실수](https://velog.io/@mraz3068/Jetpack-Compose-%EC%97%90%EC%84%9C-%EC%A0%88%EB%8C%80%EB%A1%9C-%ED%95%B4%EC%84%9C%EB%8A%94-%EC%95%88%EB%90%98%EB%8A%94-20%EA%B0%80%EC%A7%80-15)
