@@ -12,10 +12,10 @@
 
 ### **Contact & Channel**
 
-- **Email | mraz3068@gmail.com**
-- **Portfolio | [포트폴리오](https://www.notion.so/mraz3068/12a1067917dc4885bb5570bf5fda9f86)**
-- **Blog | [https://velog.io/@mraz3068](https://velog.io/@mraz3068)**
-
+- **[Email](mraz3068@gmail.com)**
+- **[Portfolio](https://www.notion.so/mraz3068/12a1067917dc4885bb5570bf5fda9f86)**
+- **[Blog](https://velog.io/@mraz3068)**
+- **[LinkedIn](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%9D%B4-ab2467220/)**
 
 
 ### **Tech Stacks**
