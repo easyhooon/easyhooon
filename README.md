@@ -14,8 +14,8 @@
 
 - mraz3068@gmail.com
 - **[Tech Blog](https://velog.io/@mraz3068)**
+- **[Resume](https://docs.google.com/document/d/1GsjP0BcVYfCg_xqUKzfrdG1ZCuusk8tQ-qnHGeVHc8M/edit?usp=sharing)**
 - **[LinkedIn](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%9D%B4-ab2467220/)**
-- **[Portfolio](https://www.notion.so/mraz3068/12a1067917dc4885bb5570bf5fda9f86)**
 
 
 ### **Tech Stacks**
