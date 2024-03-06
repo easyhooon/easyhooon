@@ -39,6 +39,7 @@
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"></code> NEXTERS 23th Android Developer (2023.07 ~ 2023.08)<br/>
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/12b78f23-1a57-49c7-951b-ce8fbfc73aa9.png"></code> Goal Achieving Service [@반다라트](https://play.google.com/store/apps/details?id=com.nexters.bandalart.android)<br/>
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"></code> NEXTERS 24th Android Developer (2024.01 ~ 2024.02)<br/>
+<code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/ebd349df-3c2e-4835-8e5f-a447b3d96695.png"></code> AI Profile Generating Service [@아이랩](https://play.google.com/store/apps/details?id=com.nexters.ilab.android)<br/>
 
 ### Open Source Project
 - Contributor - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
