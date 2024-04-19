@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/easyhooon" width="1000" height="120"/>
+</a>
+
 ### **Introduction**
 
 - 반갑습니다! 안드로이드 개발자 이지훈입니다.
