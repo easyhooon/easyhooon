@@ -46,6 +46,7 @@
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/ebd349df-3c2e-4835-8e5f-a447b3d96695.png"></code> AI Profile Generating Service [@아이랩](https://play.google.com/store/apps/details?id=com.nexters.ilab.android)<br/>
 
 ### Open Source Project
+- Contributor - [DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp)
 - Contributor - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 
 ### Speaker Deck
