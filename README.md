@@ -1,7 +1,3 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{easyhooon}?pet-id=1" width="1000" height="120"/>
-</a>
-
 ### **Introduction**
 
 - 반갑습니다! 안드로이드 개발자 이지훈입니다.
@@ -45,6 +41,20 @@
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"></code> NEXTERS 24th Android Developer (2024.01 ~ 2024.02)<br/>
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/ebd349df-3c2e-4835-8e5f-a447b3d96695.png"></code> AI Profile Generating Service [@아이랩](https://play.google.com/store/apps/details?id=com.nexters.ilab.android)<br/>
 
+## 📌 Projects
+- Android - [유니페스](https://github.com/Project-Unifest/unifest-android) : 대학 축제 지도를 펼처라, 대학 축제 정보 제공 서비스 (ing)
+- Android - [반다라트](https://github.com/Nexters/BandalArt-Android) : 부담 없는 만다라트 계획표로 당신의 목표를 더욱 선명하게, 만다라트 에디터 서비스(ing)
+- Android - [이끔](https://github.com/Wedemy/eggeum-android) : 나에게 맞는 카페 찾기, 이끔, 공부하기 좋은 카페 정보 제공 서비스 (ing)
+
+<br>
+
+- Android - [I'lab](https://github.com/Nexters/ilab-android) : 나만의 AI 프로필 연구소, AI 프로필 생성 서비스
+- Android - [나나공](https://github.com/depromeet/sloth-android) : 나보다 나무늘보가 공부 열심히 한다, 인강 수강 독려 서비스 
+- Android - [PsyChat](https://github.com/KU-LAST/psychat-android) : 내 감정 기록을 한눈에, 필요할 때 간편하게, 내 상황에 알맞게, AI 챗봇을 이용한 정신건강 케어 서비스(졸업 프로젝트)
+- Android - [ImagePicker](https://github.com/KwonDae/ImagePicker) : Compose Multiplatform 이미지 피커 서비스 
+- Android - [Buddy Call](https://github.com/easyhooon/BuddyCall) : 파티원을 찾는 커뮤니티 서비스
+- Android - [Traveler](https://github.com/heeheejj/Android-Traveler) : 장소기반 여행 일정관리 서비스
+
 ### Open Source Project
 - Contributor - [DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp)
 - Contributor - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
@@ -72,3 +82,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyhooon&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&bg_color=30,b3bfff,ccdaff&title_color=fff&text_color=fff&&hide=makefile,HTML)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mraz3068)](https://solved.ac/mraz3068)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{easyhooon}?pet-id=1" width="1000" height="120"/>
+</a>
+
