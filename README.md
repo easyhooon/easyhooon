@@ -63,6 +63,7 @@
 - https://speakerdeck.com/easyhooon
 
 ### Latest Blog Article
+- [&lpar;Android&rpar; Github Action 를 이용하여 CD 를 적용 하는 방법](https://velog.io/@mraz3068/Apply-Android-Github-Action-CD)
 - [&lpar;Android&rpar; 그동안 출시 했던 5개의 앱에 대한 리뷰](https://velog.io/@mraz3068/%EA%B7%B8-%EB%8F%99%EC%95%88-%EC%B6%9C%EC%8B%9C-%ED%96%88%EB%8D%98-5%EA%B0%9C%EC%9D%98-%EC%95%B1%EC%97%90-%EB%8C%80%ED%95%9C-%EB%A6%AC%EB%B7%B0)
 - [&lpar;Compose Multiplatform&rpar; Coil 을 이용한 Network Image Load](https://velog.io/@mraz3068/How-to-load-Network-Image-by-coil-in-Compose-Multiplatform)
 - [&lpar;Android&rpar; Jetpack Compose 에서 절대로 해서는 안되는 20가지 실수](https://velog.io/@mraz3068/Jetpack-Compose-%EC%97%90%EC%84%9C-%EC%A0%88%EB%8C%80%EB%A1%9C-%ED%95%B4%EC%84%9C%EB%8A%94-%EC%95%88%EB%90%98%EB%8A%94-20%EA%B0%80%EC%A7%80-15)
