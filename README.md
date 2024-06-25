@@ -59,6 +59,9 @@
 - Contributor - [DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp)
 - Contributor - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 
+### Interview
+- [[건국대] 건국대학교 학생들이 전하는 대학교 축제의 모든 것!: 유니페스 개발팀](https://m.blog.naver.com/dreamkonkuk/223475025767?referrerCode=1)
+
 ### Speaker Deck
 - https://speakerdeck.com/easyhooon
 
