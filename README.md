@@ -44,6 +44,7 @@
 
 ## 📌 Projects
 - Android - [유니페스](https://github.com/Project-Unifest/unifest-android) : 대학 축제 지도를 펼처라, 대학 축제 정보 제공 서비스 (~ing)
+- Android - [트립메이트](https://github.com/TeamTripmate/tripmate-android) : 강원도 여행 정보 및 동행 찾기 서비스 
 <br>
 
 - Android - [반다라트](https://github.com/Nexters/BandalArt-Android) : 부담 없는 만다라트 계획표로 당신의 목표를 더욱 선명하게, 만다라트 에디터 서비스 (~ing)
