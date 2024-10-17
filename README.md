@@ -60,7 +60,7 @@
 - Contributor - [DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp)
 - Contributor - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 - Contributor - [compose-would-you-rather-game](https://github.com/wisemuji/compose-would-you-rather-game)
-  Contributor - [coroutinelecture](https://github.com/seyoungcho2/coroutinelecture)
+- Contributor - [coroutinelecture](https://github.com/seyoungcho2/coroutinelecture)
 
 ### Interview
 - [[건국대] 건국대학교 학생들이 전하는 대학교 축제의 모든 것!: 유니페스 개발팀](https://m.blog.naver.com/dreamkonkuk/223475025767?referrerCode=1)
