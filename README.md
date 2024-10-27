@@ -3,7 +3,7 @@
 - 반갑습니다! 신입 안드로이드 개발자 이지훈입니다.
 - 제가 만든 앱을 계속 발전 시키는 것을 좋아합니다.
 - 트러블 슈팅 경험을 공유하기 위한 기술 블로그를 운영하고 있습니다.
-- 새로운 기술을 배우는 것에 관심이 있습니다. 
+- 새로운 기술을 배우고 이를 프로젝트에 적용해보는 것에 관심이 있습니다. 
 - 지속적인 성장을 위해 도전하고, 노력하고 있습니다🔥
 
 ```
@@ -43,7 +43,7 @@
 
 ## 📌 Projects
 - Android - [유니페스](https://github.com/Project-Unifest/unifest-android) : 대학 축제 지도를 펼처라, 대학 축제 정보 제공 서비스 (~ing)
-- Android - [트립메이트](https://github.com/TeamTripmate/tripmate-android) : 강원도 여행 정보 및 동행 찾기 서비스 (~ing)
+- Android - [트립메이트](https://github.com/TeamTripmate/tripmate-android) : 강원도 여행 정보 및 동행 찾기 서비스, 한국관광공사 x 카카오 2024 관광데이터 활용 공모전 출품작  (~ing)
 <br>
 
 - Android - [반다라트](https://github.com/Nexters/BandalArt-Android) : 부담 없는 만다라트 계획표로 당신의 목표를 더욱 선명하게, 만다라트 에디터 서비스
@@ -64,6 +64,9 @@
 ### Interview
 - [[건국대] 건국대학교 학생들이 전하는 대학교 축제의 모든 것!: 유니페스 개발팀](https://m.blog.naver.com/dreamkonkuk/223475025767?referrerCode=1)
 
+### **Awards**
+- [한국관광공사 x 카카오 2024 관광데이터 활용 공모전](https://www.2024tourapi.com/) 장려상 
+
 ### Speaker Deck
 - https://speakerdeck.com/easyhooon
 
@@ -73,7 +76,6 @@
 - [&lpar;Compose Multiplatform&rpar; Coil 을 이용한 Network Image Load](https://velog.io/@mraz3068/How-to-load-Network-Image-by-coil-in-Compose-Multiplatform)
 - [&lpar;Android&rpar; Jetpack Compose 에서 절대로 해서는 안되는 20가지 실수](https://velog.io/@mraz3068/Jetpack-Compose-%EC%97%90%EC%84%9C-%EC%A0%88%EB%8C%80%EB%A1%9C-%ED%95%B4%EC%84%9C%EB%8A%94-%EC%95%88%EB%90%98%EB%8A%94-20%EA%B0%80%EC%A7%80-15)
 - [&lpar;Android&rpar; Jetpack Compose Paging3 LoadStateFooter 구현 방법](https://velog.io/@mraz3068/Jetpack-Compose-Paging3-LoadStateFooter-Implementation)
-- [&lpar;Android&rpar; Custom Splash Screen 만드는 방법(Splash Screen API을 사용하는 경우)](https://velog.io/@mraz3068/Android-Custom-SplashScreen-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95Splash-Screen-API%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
 - [&lpar;Android&rpar; Feature 모듈간 순환 참조 이슈를 해결하는 방법](https://velog.io/@mraz3068/Feature-%EB%AA%A8%EB%93%88%EA%B0%84-%EC%88%9C%ED%99%98-%EC%B0%B8%EC%A1%B0-%EC%9D%B4%EC%8A%88%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   
 ### **Certificates**
