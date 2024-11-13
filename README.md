@@ -71,12 +71,11 @@
 - https://speakerdeck.com/easyhooon
 
 ### Latest Blog Article
+- [&lpar;Android&rpar; Circuit rememberRetained, produceRetainedState 함수 분석](https://velog.io/@mraz3068/Circuit-rememberRetained-produceRetainedState-Deep-Dive)
+- [&lpar;Android&rpar; Circuit 찍먹해보기](https://velog.io/@mraz3068/Circuit-Try-Out)
+- [&lpar;Android&rpar; Compose Navigation Argument를 ViewModel 내의 SavedStateHandle로 전달받을 수 있는 이유](https://velog.io/@mraz3068/Why-Compose-Navigation-Argument-Can-Be-Received-By-Savedstatehandle-In-Viewmodel)
+- [&lpar;Android&rpar; Compose Type Safe Navigation Custom Data Class를 Argument로 전달하는 방법](https://velog.io/@mraz3068/Android-Compose-Type-Safe-Navigation-Custom-Data-Class-Argument-Delivery-Way)
 - [&lpar;Android&rpar; Github Action 를 이용하여 CD 를 적용 하는 방법](https://velog.io/@mraz3068/Apply-Android-Github-Action-CD)
-- [&lpar;Android&rpar; 그동안 출시 했던 5개의 앱에 대한 리뷰](https://velog.io/@mraz3068/%EA%B7%B8-%EB%8F%99%EC%95%88-%EC%B6%9C%EC%8B%9C-%ED%96%88%EB%8D%98-5%EA%B0%9C%EC%9D%98-%EC%95%B1%EC%97%90-%EB%8C%80%ED%95%9C-%EB%A6%AC%EB%B7%B0)
-- [&lpar;Compose Multiplatform&rpar; Coil 을 이용한 Network Image Load](https://velog.io/@mraz3068/How-to-load-Network-Image-by-coil-in-Compose-Multiplatform)
-- [&lpar;Android&rpar; Jetpack Compose 에서 절대로 해서는 안되는 20가지 실수](https://velog.io/@mraz3068/Jetpack-Compose-%EC%97%90%EC%84%9C-%EC%A0%88%EB%8C%80%EB%A1%9C-%ED%95%B4%EC%84%9C%EB%8A%94-%EC%95%88%EB%90%98%EB%8A%94-20%EA%B0%80%EC%A7%80-15)
-- [&lpar;Android&rpar; Jetpack Compose Paging3 LoadStateFooter 구현 방법](https://velog.io/@mraz3068/Jetpack-Compose-Paging3-LoadStateFooter-Implementation)
-- [&lpar;Android&rpar; Feature 모듈간 순환 참조 이슈를 해결하는 방법](https://velog.io/@mraz3068/Feature-%EB%AA%A8%EB%93%88%EA%B0%84-%EC%88%9C%ED%99%98-%EC%B0%B8%EC%A1%B0-%EC%9D%B4%EC%8A%88%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   
 ### **Certificates**
 |자격증명|주최기관|일자|
