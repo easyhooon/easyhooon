@@ -43,10 +43,10 @@
 
 ## 📌 Projects
 - Android - [유니페스](https://github.com/Project-Unifest/unifest-android) : 대학 축제 지도를 펼처라, 대학 축제 정보 제공 서비스 (~ing)
-- Android - [트립메이트](https://github.com/TeamTripmate/tripmate-android) : 강원도 여행 정보 및 동행 찾기 서비스, 한국관광공사 x 카카오 2024 관광데이터 활용 공모전 출품작  (~ing)
 - Android - [반다라트](https://github.com/Nexters/BandalArt-Android) : 부담 없는 만다라트 계획표로 당신의 목표를 더욱 선명하게, 만다라트 에디터 서비스 (~ing)
 <br>
 
+- Android - [트립메이트](https://github.com/TeamTripmate/tripmate-android) : 강원도 여행 정보 및 동행 찾기 서비스, 한국관광공사 x 카카오 2024 관광데이터 활용 공모전 출품작
 - Android - [이끔](https://github.com/Wedemy/eggeum-android) : 나에게 맞는 카페 찾기, 이끔, 공부하기 좋은 카페 정보 제공 서비스
 - Android - [I'lab](https://github.com/Nexters/ilab-android) : 나만의 AI 프로필 연구소, AI 프로필 생성 서비스
 - Android - [나나공](https://github.com/depromeet/sloth-android) : 나보다 나무늘보가 공부 열심히 한다, 인강 수강 독려 서비스 
@@ -56,6 +56,7 @@
 - Android - [Traveler](https://github.com/heeheejj/Android-Traveler) : 장소기반 여행 일정관리 서비스
 
 ### Open Source Project
+- Contributor - [Circuit](https://github.com/slackhq/circuit)
 - Contributor - [DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp)
 - Contributor - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 - Contributor - [compose-would-you-rather-game](https://github.com/wisemuji/compose-would-you-rather-game)
