@@ -16,16 +16,22 @@
 - **[Tech Blog](https://velog.io/@mraz3068)**
 - **[LinkedIn](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%9D%B4-ab2467220/)**
 
-
-### **Tech Stacks**
+### Tech Stacks
+#### Main Stack
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
   <img src="https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"> 
   <img alt="KMP(Kotlin MultiPlatform)" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin+Multiplatform&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label="/>
-  <img src="https://img.shields.io/badge/Java-11B48A?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-11B48A?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
+
+#### Sub Stack
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white">
+</div>
 
 ### **Activity**
 
