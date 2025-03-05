@@ -20,9 +20,8 @@
 #### Main Stack
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Compose+Multiplatform&color=4285F4&logo=Jetbrains&logoColor=FFFFFF&label="/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"> 
-  <img alt="KMP(Kotlin MultiPlatform)" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin+Multiplatform&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label="/>
   <img src="https://img.shields.io/badge/Java-11B48A?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
@@ -47,10 +46,12 @@
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"></code> NEXTERS 24th Android Developer (2024.01 ~ 2024.02)<br/>
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/ebd349df-3c2e-4835-8e5f-a447b3d96695.png"></code> AI Profile Generating Service [@아이랩](https://play.google.com/store/apps/details?id=com.nexters.ilab.android)<br/>
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"></code> NEXTERS 26th Android Developer (2025.01 ~ 2025.02)<br/>
+<code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/6946efee-5349-4c3f-9fc5-9e585de39e94"></code> Curation Service for Emerging Artists [@Ziine](https://play.google.com/store/apps/details?id=com.nexters.ziine.android)<br/>
 
 ## 📌 Projects
 - Android - [유니페스](https://github.com/Project-Unifest/unifest-android) : 대학 축제 지도를 펼처라, 대학 축제 정보 제공 서비스 (~ing)
-- Android - [반다라트](https://github.com/Nexters/BandalArt-Android) : 부담 없는 만다라트 계획표로 당신의 목표를 더욱 선명하게, 만다라트 에디터 서비스 (~ing)
+- Compose Multiplatform - [반다라트](https://github.com/Nexters/BandalArt-Android) : 부담 없는 만다라트 계획표로 당신의 목표를 더욱 선명하게, 만다라트 에디터 서비스 (~ing)
+- Android - [Ziine](https://github.com/Nexters/ziine-android) : Ziine 진 - 내 손 안의 미술 작품 (~ing)
 <br>
 
 - Android - [트립메이트](https://github.com/TeamTripmate/tripmate-android) : 강원도 여행 정보 및 동행 찾기 서비스, 한국관광공사 x 카카오 2024 관광데이터 활용 공모전 출품작
