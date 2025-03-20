@@ -81,8 +81,8 @@
 - https://speakerdeck.com/easyhooon
 
 ### Latest Blog Article
-- [&lpar;Android&rpar; Circuit rememberRetained, produceRetainedState 함수 분석](https://velog.io/@mraz3068/Circuit-rememberRetained-produceRetainedState-Deep-Dive)
-- [&lpar;Android&rpar; Circuit 찍먹해보기](https://velog.io/@mraz3068/Circuit-Try-Out)
+- [&lpar;KMP&rpar; 반다라트 iOS 앱 출시 완료!](https://velog.io/@mraz3068/Bandalart-iOS-App-Deployment-Complete)
+- [&lpar;Android&rpar; Circuit 분석](https://velog.io/@mraz3068/series/Circuit)
 - [&lpar;Android&rpar; Compose Navigation Argument를 ViewModel 내의 SavedStateHandle로 전달받을 수 있는 이유](https://velog.io/@mraz3068/Why-Compose-Navigation-Argument-Can-Be-Received-By-Savedstatehandle-In-Viewmodel)
 - [&lpar;Android&rpar; Compose Type Safe Navigation Custom Data Class를 Argument로 전달하는 방법](https://velog.io/@mraz3068/Android-Compose-Type-Safe-Navigation-Custom-Data-Class-Argument-Delivery-Way)
 - [&lpar;Android&rpar; Github Action 를 이용하여 CD 를 적용 하는 방법](https://velog.io/@mraz3068/Apply-Android-Github-Action-CD)
