@@ -59,7 +59,7 @@
 - Android - [I'lab](https://github.com/Nexters/ilab-android) : 나만의 AI 프로필 연구소, AI 프로필 생성 서비스
 - Android - [나나공](https://github.com/depromeet/sloth-android) : 나보다 나무늘보가 공부 열심히 한다, 인강 수강 독려 서비스 
 - Android - [PsyChat](https://github.com/KU-LAST/psychat-android) : 내 감정 기록을 한눈에, 필요할 때 간편하게, 내 상황에 알맞게, AI 챗봇을 이용한 정신건강 케어 서비스(졸업 프로젝트)
-- Android - [ImagePicker](https://github.com/KwonDae/ImagePicker) : Compose Multiplatform 이미지 피커 서비스 
+- Android - [ImagePicker](https://github.com/KwonDae/ImagePicker) : Compose Multiplatform 이미지 피커
 - Android - [Buddy Call](https://github.com/easyhooon/BuddyCall) : 파티원을 찾는 커뮤니티 서비스
 - Android - [Traveler](https://github.com/heeheejj/Android-Traveler) : 장소기반 여행 일정관리 서비스
 
