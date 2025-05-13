@@ -35,7 +35,8 @@
 ### **Activity**
 
 [<img src="https://user-images.githubusercontent.com/70064912/192104232-022954a2-4cc7-4fe8-861e-5a83a1a49e30.png" width="50" height="50">](http://teamnexters.com/)
-[<img src="https://github.com/easyhooon/easyhooon/assets/51016231/b7a40a20-f565-428f-a3c4-3c72c552cd6d" width="50" height="50">](https://www.depromeet.com/)
+[<img src="https://github.com/easyhooon/easyhooon/assets/51016231/b7a40a20-f565-428f-a3c4-3c72c552cd6d.png" width="50" height="50">](https://www.depromeet.com/)
+[<img src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992" width="50" height="50">](https://www.yapp.co.kr/)
 
 ### **Education & Experience**
 ```🏫``` Konkuk University / Chemistry (2017.03 ~ 2019.02) -> Computer Science & Engineering (2019.03 ~ 2024.02)<br/>
@@ -47,6 +48,7 @@
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/ebd349df-3c2e-4835-8e5f-a447b3d96695.png"></code> AI Profile Generating Service [@아이랩](https://play.google.com/store/apps/details?id=com.nexters.ilab.android)<br/>
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"></code> NEXTERS 26th Android Developer (2025.01 ~ 2025.02)<br/>
 <code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/6946efee-5349-4c3f-9fc5-9e585de39e94"></code> Curation Service for Emerging Artists [@Ziine](https://play.google.com/store/apps/details?id=com.nexters.ziine.android)<br/>
+<code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992"></code> YAPP 26th Android Developer (2025.01 ~ 2025.02)<br/>
 
 ## 📌 Projects
 - Android - [유니페스](https://github.com/Project-Unifest/unifest-android) : 대학 축제 지도를 펼처라, 대학 축제 정보 제공 서비스 (~ing)
