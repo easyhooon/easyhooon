@@ -49,8 +49,10 @@
 <code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"></code> NEXTERS 26th Android Developer (2025.01 ~ 2025.02)<br/>
 <code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/6946efee-5349-4c3f-9fc5-9e585de39e94"></code> Curation Service for Emerging Artists [@Ziine](https://play.google.com/store/apps/details?id=com.nexters.ziine.android)<br/>
 <code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992"></code> YAPP 26th Android Developer (2025.05 ~ 2025.08)<br/>
+<code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/4121642b-359e-4d53-aa49-a3e109df9277"></code> Emotional Reading Record Service [@Reed](https://play.google.com/store/apps/details?id=com.ninecraft.booket)<br/>
 
 ## 📌 Projects
+- Android - [Reed](https://github.com/YAPP-Github/Reed-Android) : 문장과 감정을 함께 담는 독서 기록 서비스 (~ing)
 - Android - [유니페스](https://github.com/Project-Unifest/unifest-android) : 대학 축제 지도를 펼처라, 대학 축제 정보 제공 서비스 (~ing)
 - Compose Multiplatform - [반다라트](https://github.com/Nexters/BandalArt-Android) : 부담 없는 만다라트 계획표로 당신의 목표를 더욱 선명하게, 만다라트 에디터 서비스 (~ing)
 - Android - [Ziine](https://github.com/Nexters/ziine-android) : Ziine 진 - 내 손 안의 미술 작품 (~ing)
@@ -66,6 +68,7 @@
 - Android - [Traveler](https://github.com/heeheejj/Android-Traveler) : 장소기반 여행 일정관리 서비스
 
 ### Open Source Project
+- Contributor - [DroidKaigi/conference-app-2025](https://github.com/DroidKaigi/conference-app-2025) [PR](https://github.com/DroidKaigi/conference-app-2025/pulls?q=is%3Apr+author%3Aeasyhooon)
 - Contributor - [Circuit](https://github.com/slackhq/circuit)  [PR](https://github.com/slackhq/circuit/pull/1870)
 - Contributor - [DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp)  [PR](https://github.com/droidknights/DroidKnightsApp/pull/274)
 - Contributor - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)  [PR](https://github.com/MobileAppDeveloperConference/android/pull/42)
