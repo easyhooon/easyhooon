@@ -68,6 +68,7 @@
 - Android - [Traveler](https://github.com/heeheejj/Android-Traveler) : 장소기반 여행 일정관리 서비스
 
 ### Open Source Project
+- Contributor - [compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) [PR](https://github.com/skydoves/compose-stability-analyzer/pull/7)
 - Contributor - [Soil](https://github.com/soil-kt/soil) [PR](https://github.com/soil-kt/soil/pull/271)
 - Contributor - [ZodKmp](https://github.com/piashcse/ZodKmp) [PR](https://github.com/piashcse/ZodKmp/pull/16)
 - Contributor - [DroidKaigi/conference-app-2025](https://github.com/DroidKaigi/conference-app-2025) [PR](https://github.com/DroidKaigi/conference-app-2025/pulls?q=is%3Apr+author%3Aeasyhooon)
