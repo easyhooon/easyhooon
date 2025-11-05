@@ -68,6 +68,8 @@
 - Android - [Traveler](https://github.com/heeheejj/Android-Traveler) : 장소기반 여행 일정관리 서비스
 
 ### Open Source Project
+- Maintainer - [qwerty2hangul](https://github.com/easyhooon/qwerty2hangul)
+
 - Contributor - [compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) [PR](https://github.com/skydoves/compose-stability-analyzer/pull/7)
 - Contributor - [Soil](https://github.com/soil-kt/soil) [PR](https://github.com/soil-kt/soil/pull/271)
 - Contributor - [ZodKmp](https://github.com/piashcse/ZodKmp) [PR](https://github.com/piashcse/ZodKmp/pull/16)
