@@ -97,11 +97,11 @@
   - [Compose Multiplatform Image Picker](https://speakerdeck.com/easyhooon/compose-multiplatform-image-picker)
 
 ### Latest Blog Article
-- [&lpar;KMP&rpar; 반다라트 iOS 앱 출시 완료!](https://velog.io/@mraz3068/Bandalart-iOS-App-Deployment-Complete)
-- [&lpar;Android&rpar; Circuit 분석](https://velog.io/@mraz3068/series/Circuit)
-- [&lpar;Android&rpar; Compose Navigation Argument를 ViewModel 내의 SavedStateHandle로 전달받을 수 있는 이유](https://velog.io/@mraz3068/Why-Compose-Navigation-Argument-Can-Be-Received-By-Savedstatehandle-In-Viewmodel)
-- [&lpar;Android&rpar; Compose Type Safe Navigation Custom Data Class를 Argument로 전달하는 방법](https://velog.io/@mraz3068/Android-Compose-Type-Safe-Navigation-Custom-Data-Class-Argument-Delivery-Way)
-- [&lpar;Android&rpar; Github Action 를 이용하여 CD 를 적용 하는 방법](https://velog.io/@mraz3068/Apply-Android-Github-Action-CD)
+- [Metro 분석](https://velog.io/@mraz3068/series/Metro)
+- [IT 동아리 면접 후기](https://velog.io/@mraz3068/IT-Club-Interviewer-Review)
+- [[Compose] retain API](https://velog.io/@mraz3068/Compose-Retain-API)
+- [반다라트 iOS 앱 출시 완료!](https://velog.io/@mraz3068/Bandalart-iOS-App-Deployment-Complete)
+- [Circuit 분석](https://velog.io/@mraz3068/series/Circuit)
   
 ### **Certificates**
 |자격증명|주최기관|일자|
