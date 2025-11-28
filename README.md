@@ -92,6 +92,9 @@
 
 ### Speaker Deck
 - https://speakerdeck.com/easyhooon
+  - [Circuit 찍먹해보기(부제: Circuit 절망편)](https://speakerdeck.com/easyhooon/circuit-jjigmeoghaebogi-buje-circuit-jeolmangpyeon)
+  - [Circuit 찍먹해보기(부제: Circuit 희망편)](https://speakerdeck.com/easyhooon/circuit-jjigmeoghaebogi-buje-circuit-hyimangpyeon)
+  - [Compose Multiplatform Image Picker](https://speakerdeck.com/easyhooon/compose-multiplatform-image-picker)
 
 ### Latest Blog Article
 - [&lpar;KMP&rpar; 반다라트 iOS 앱 출시 완료!](https://velog.io/@mraz3068/Bandalart-iOS-App-Deployment-Complete)
