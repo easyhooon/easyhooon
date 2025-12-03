@@ -74,7 +74,7 @@
 - Contributor - [pokedex-compose](https://github.com/skydoves/pokedex-compose) [PR](https://github.com/skydoves/pokedex-compose/pull/47)
 - Contributor - [cahier](https://github.com/android/cahier) [PR](https://github.com/android/cahier/pull/26)
 - Contributor - [compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) [PR](https://github.com/skydoves/compose-stability-analyzer/pull/7)
-- Contributor - [Soil](https://github.com/soil-kt/soil) [PR](https://github.com/soil-kt/soil/pull/271)
+- Contributor - [soil](https://github.com/soil-kt/soil) [PR](https://github.com/soil-kt/soil/pull/271)
 - Contributor - [ZodKmp](https://github.com/piashcse/ZodKmp) [PR](https://github.com/piashcse/ZodKmp/pull/16)
 - Contributor - [DroidKaigi/conference-app-2025](https://github.com/DroidKaigi/conference-app-2025) [PR](https://github.com/DroidKaigi/conference-app-2025/pulls?q=is%3Apr+author%3Aeasyhooon)
 - Contributor - [Circuit](https://github.com/slackhq/circuit)  [PR](https://github.com/slackhq/circuit/pull/1870)
