@@ -91,20 +91,20 @@
 ### **Awards**
 - [한국관광공사 x 카카오 2024 관광데이터 활용 공모전](https://www.2024tourapi.com/) 장려상(강원관광재단 특별상)
 
-### Speaker Deck
-- https://speakerdeck.com/easyhooon
-  - [Circuit 찍먹해보기(부제: Circuit 절망편)](https://speakerdeck.com/easyhooon/circuit-jjigmeoghaebogi-buje-circuit-jeolmangpyeon)
-  - [Circuit 찍먹해보기(부제: Circuit 희망편)](https://speakerdeck.com/easyhooon/circuit-jjigmeoghaebogi-buje-circuit-hyimangpyeon)
-  - [Compose Multiplatform Image Picker](https://speakerdeck.com/easyhooon/compose-multiplatform-image-picker)
-
 ### Latest Blog Article
-[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/easyhooon?theme=dark&posts=3)](https://velog.io/@mraz3068/posts)
+[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/mraz3068?theme=dark&posts=3)](https://velog.io/@mraz3068/posts)
 
 - [Metro 분석](https://velog.io/@mraz3068/series/Metro)
 - [IT 동아리 면접 후기](https://velog.io/@mraz3068/IT-Club-Interviewer-Review)
 - [[Compose] retain API](https://velog.io/@mraz3068/Compose-Retain-API)
 - [반다라트 iOS 앱 출시 완료!](https://velog.io/@mraz3068/Bandalart-iOS-App-Deployment-Complete)
 - [Circuit 분석](https://velog.io/@mraz3068/series/Circuit)
+
+### Speaker Deck
+- https://speakerdeck.com/easyhooon
+  - [Circuit 찍먹해보기(부제: Circuit 절망편)](https://speakerdeck.com/easyhooon/circuit-jjigmeoghaebogi-buje-circuit-jeolmangpyeon)
+  - [Circuit 찍먹해보기(부제: Circuit 희망편)](https://speakerdeck.com/easyhooon/circuit-jjigmeoghaebogi-buje-circuit-hyimangpyeon)
+  - [Compose Multiplatform Image Picker](https://speakerdeck.com/easyhooon/compose-multiplatform-image-picker)
   
 ### **Certificates**
 |자격증명|주최기관|일자|
