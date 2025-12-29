@@ -71,6 +71,7 @@
 - Maintainer - [qwerty2hangul](https://github.com/easyhooon/qwerty2hangul)
 <br>
 
+- Contributor - [compose-camera](https://github.com/l2hyunwoo/compose-camera) [PR](https://github.com/l2hyunwoo/compose-camera/pull/37)
 - Contributor - [pokedex-compose](https://github.com/skydoves/pokedex-compose) [PR](https://github.com/skydoves/pokedex-compose/pull/47)
 - Contributor - [cahier](https://github.com/android/cahier) [PR](https://github.com/android/cahier/pull/26)
 - Contributor - [compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) [PR](https://github.com/skydoves/compose-stability-analyzer/pull/7)
