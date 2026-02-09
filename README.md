@@ -96,7 +96,7 @@
 [![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/mraz3068?theme=dark&posts=3)](https://velog.io/@mraz3068/posts)
 
 - [Metro 분석](https://velog.io/@mraz3068/series/Metro)
-- [IT 동아리 면접 후기](https://velog.io/@mraz3068/IT-Club-Interviewer-Review)
+- [IT 동아리 면접관 후기](https://velog.io/@mraz3068/IT-Club-Interviewer-Review)
 - [[Compose] retain API](https://velog.io/@mraz3068/Compose-Retain-API)
 - [반다라트 iOS 앱 출시 완료!](https://velog.io/@mraz3068/Bandalart-iOS-App-Deployment-Complete)
 - [Circuit 분석](https://velog.io/@mraz3068/series/Circuit)
