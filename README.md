@@ -68,6 +68,7 @@
 - Android - [Traveler](https://github.com/heeheejj/Android-Traveler) : 장소기반 여행 일정관리 서비스
 
 ### Open Source Project
+- Maintainer - [dari](https://github.com/easyhooon/dari)
 - Maintainer - [qwerty2hangul](https://github.com/easyhooon/qwerty2hangul)
 <br>
 
