@@ -12,7 +12,7 @@
 
 ### **Contact & Channel**
 
-- **[Email](mraz3068@gmail.com)**
+- **Email: mraz3068@gmail.com**
 - **[Tech Blog](https://velog.io/@mraz3068)**
 - **[LinkedIn](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%9D%B4-ab2467220/)**
 
