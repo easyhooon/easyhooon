@@ -52,12 +52,13 @@
 <code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/4121642b-359e-4d53-aa49-a3e109df9277"></code> Emotional Reading Record Service [@Reed](https://play.google.com/store/apps/details?id=com.ninecraft.booket)<br/>
 
 ## 📌 Projects
-- Android - [Reed](https://github.com/YAPP-Github/Reed-Android) : 문장과 감정을 함께 담는 독서 기록 서비스 (~ing)
-- Android - [유니페스](https://github.com/Project-Unifest/unifest-android) : 대학 축제 지도를 펼처라, 대학 축제 정보 제공 서비스 (~ing)
-- Compose Multiplatform - [반다라트](https://github.com/Nexters/BandalArt-Android) : 부담 없는 만다라트 계획표로 당신의 목표를 더욱 선명하게, 만다라트 에디터 서비스 (~ing)
-- Android - [Ziine](https://github.com/Nexters/ziine-android) : Ziine 진 - 내 손 안의 미술 작품 (~ing)
-<br>
 
+- Compose Multiplatform - [반다라트](https://github.com/Nexters/BandalArt-Android) : 부담 없는 만다라트 계획표로 당신의 목표를 더욱 선명하게, 만다라트 에디터 서비스 (~ing)
+
+<br>
+- Android - [Reed](https://github.com/YAPP-Github/Reed-Android) : 문장과 감정을 함께 담는 독서 기록 서비스
+- Android - [Ziine](https://github.com/Nexters/ziine-android) : Ziine 진 - 내 손 안의 미술 작품
+- Android - [유니페스](https://github.com/Project-Unifest/unifest-android) : 대학 축제 지도를 펼처라, 대학 축제 정보 제공 서비스
 - Android - [트립메이트](https://github.com/TeamTripmate/tripmate-android) : 강원도 여행 정보 및 동행 찾기 서비스, 한국관광공사 x 카카오 2024 관광데이터 활용 공모전 출품작
 - Android - [이끔](https://github.com/Wedemy/eggeum-android) : 나에게 맞는 카페 찾기, 이끔, 공부하기 좋은 카페 정보 제공 서비스
 - Android - [I'lab](https://github.com/Nexters/ilab-android) : 나만의 AI 프로필 연구소, AI 프로필 생성 서비스
