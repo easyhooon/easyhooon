@@ -58,7 +58,7 @@
 - Compose Multiplatform - [반다라트](https://github.com/Nexters/BandalArt-Android) : 부담 없는 만다라트 계획표로 당신의 목표를 더욱 선명하게, 만다라트 에디터 서비스 (~ing)
 <br>
 
-- Android - [Reed](https://github.com/YAPP-Github/Reed-Android) : 문장과 감정을 함께 담는 독서 기록 서비스
+- Android - [Reed](https://github.com/YAPP-Github/Reed-Android) : 문장과 감정을 함께 담는 독서 기록 서비스(🏆 YAPP 26th 최우수상)
 - Android - [Ziine](https://github.com/Nexters/ziine-android) : Ziine 진 - 내 손 안의 미술 작품
 - Android - [유니페스](https://github.com/Project-Unifest/unifest-android) : 대학 축제 지도를 펼처라, 대학 축제 정보 제공 서비스
 - Android - [트립메이트](https://github.com/TeamTripmate/tripmate-android) : 강원도 여행 정보 및 동행 찾기 서비스, 한국관광공사 x 카카오 2024 관광데이터 활용 공모전 출품작
