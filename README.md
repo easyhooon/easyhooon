@@ -39,17 +39,17 @@
 [<img src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992" width="50" height="50">](https://www.yapp.co.kr/)
 
 ### **Education & Experience**
-```🏫``` Konkuk University / Chemistry (2017.03 ~ 2019.02) -> Computer Science & Engineering (2019.03 ~ 2024.02)<br/>
-<code><img width="13" height="13" alt="image" src="https://user-images.githubusercontent.com/51016231/200306491-55d3508d-6b85-48ab-b091-651a42f9783c.png"></code> Depromeet 10th Android Developer (2021.09 ~ 2021.12)<br/>
-<code><img width="13" height="13" alt="image" src="https://user-images.githubusercontent.com/51016231/200248371-f9ce4b01-b6c4-4ffa-8264-06b186033901.png"></code> Study Encouragement Service [@나나공](https://play.google.com/store/apps/details?id=com.depromeet.sloth)<br/>
-<code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"></code> NEXTERS 23th Android Developer (2023.07 ~ 2023.08)<br/>
-<code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/12b78f23-1a57-49c7-951b-ce8fbfc73aa9.png"></code> Goal Achieving Service [@반다라트](https://play.google.com/store/apps/details?id=com.nexters.bandalart.android)<br/>
-<code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"></code> NEXTERS 24th Android Developer (2024.01 ~ 2024.02)<br/>
-<code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/ebd349df-3c2e-4835-8e5f-a447b3d96695.png"></code> AI Profile Generating Service [@아이랩](https://play.google.com/store/apps/details?id=com.nexters.ilab.android)<br/>
-<code><img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"></code> NEXTERS 26th Android Developer (2025.01 ~ 2025.02)<br/>
-<code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/6946efee-5349-4c3f-9fc5-9e585de39e94"></code> Curation Service for Emerging Artists [@Ziine](https://play.google.com/store/apps/details?id=com.nexters.ziine.android)<br/>
-<code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992"></code> YAPP 26th Android Developer (2025.05 ~ 2025.08)<br/>
-<code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/4121642b-359e-4d53-aa49-a3e109df9277"></code> Emotional Reading Record Service [@Reed](https://play.google.com/store/apps/details?id=com.ninecraft.booket)<br/>
+🏫 Konkuk University / Chemistry (2017.03 ~ 2019.02) -> Computer Science & Engineering (2019.03 ~ 2024.02)<br/>
+<img width="13" height="13" alt="image" src="https://user-images.githubusercontent.com/51016231/200306491-55d3508d-6b85-48ab-b091-651a42f9783c.png"> Depromeet 10th Android Developer (2021.09 ~ 2021.12)<br/>
+<img width="13" height="13" alt="image" src="https://user-images.githubusercontent.com/51016231/200248371-f9ce4b01-b6c4-4ffa-8264-06b186033901.png"> Study Encouragement Service [@나나공](https://play.google.com/store/apps/details?id=com.depromeet.sloth)<br/>
+<img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"> NEXTERS 23th Android Developer (2023.07 ~ 2023.08)<br/>
+<img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/12b78f23-1a57-49c7-951b-ce8fbfc73aa9.png"> Goal Achieving Service [@반다라트](https://play.google.com/store/apps/details?id=com.nexters.bandalart.android)<br/>
+<img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"> NEXTERS 24th Android Developer (2024.01 ~ 2024.02)<br/>
+<img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/ebd349df-3c2e-4835-8e5f-a447b3d96695.png"> AI Profile Generating Service [@아이랩](https://play.google.com/store/apps/details?id=com.nexters.ilab.android)<br/>
+<img width="13" height="13" alt="image" src="https://github.com/easyhooon/easyhooon/assets/51016231/991cfb10-0dfe-43c0-88bb-9b799cb592ee.png"> NEXTERS 26th Android Developer (2025.01 ~ 2025.02)<br/>
+<img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/6946efee-5349-4c3f-9fc5-9e585de39e94"> Curation Service for Emerging Artists [@Ziine](https://play.google.com/store/apps/details?id=com.nexters.ziine.android)<br/>
+<img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992"> YAPP 26th Android Developer (2025.05 ~ 2025.08)<br/>
+<img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/4121642b-359e-4d53-aa49-a3e109df9277"> Emotional Reading Record Service [@Reed](https://play.google.com/store/apps/details?id=com.ninecraft.booket)<br/>
 
 ## 📌 Projects
 
