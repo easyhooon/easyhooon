@@ -50,6 +50,8 @@
 <img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/6946efee-5349-4c3f-9fc5-9e585de39e94"> Curation Service for Emerging Artists [@Ziine](https://play.google.com/store/apps/details?id=com.nexters.ziine.android)<br/>
 <img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992"> YAPP 26th Android Developer (2025.05 ~ 2025.08)<br/>
 <img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/4121642b-359e-4d53-aa49-a3e109df9277"> Emotional Reading Record Service [@Reed](https://play.google.com/store/apps/details?id=com.ninecraft.booket)<br/>
+<img width="13" height="13" src="https://github.com/user-attachments/assets/d3a46ea2-edc8-45b1-aad1-19dd35e7b992"> YAPP 27th/28th Android Interviewer (2025.11, 2026.05) <br>
+</p>
 
 ## 📌 Projects
 
