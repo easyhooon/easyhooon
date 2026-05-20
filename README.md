@@ -54,7 +54,6 @@
 </p>
 
 ## 📌 Projects
-
 - Compose Multiplatform - [반다라트](https://github.com/Nexters/BandalArt-Android) : 부담 없는 만다라트 계획표로 당신의 목표를 더욱 선명하게, 만다라트 에디터 서비스 (~ing)
 <br>
 
@@ -89,6 +88,9 @@
 - Contributor - [coroutinelecture](https://github.com/seyoungcho2/coroutinelecture)  [PR](https://github.com/seyoungcho2/coroutinelecture/pull/2)
 - Contributor - [kmp-multi-module-template](https://github.com/yjyoon-dev/kmp-multi-module-template) [PR](https://github.com/yjyoon-dev/kmp-multi-module-template/pull/1)
 - Contributor - [ComposeExtensions](https://github.com/taehwandev/ComposeExtensions) [PR](https://github.com/taehwandev/ComposeExtensions/pull/83)
+
+### Enjoy
+- Chrome Extension - [누가 소리를 내었는가?](https://github.com/easyhooon/WhoSpoke) : 소리 나는 탭을 찾아 이동, 음소거, 닫기를 빠르게 할 수 있는 Chrome 확장 프로그램
 
 ### Interview
 - [[건국대] 건국대학교 학생들이 전하는 대학교 축제의 모든 것!: 유니페스 개발팀](https://m.blog.naver.com/dreamkonkuk/223475025767?referrerCode=1)
