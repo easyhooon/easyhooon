@@ -10,11 +10,14 @@
 실력은 고통의 총합이다.
 ```
 
+### **Writing**
+
+- **[Tech Blog](https://velog.io/@mraz3068)**
+- **[LinkedIn](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%9D%B4-ab2467220/)**
+
 ### **Contact & Channel**
 
 - **Email: mraz3068@gmail.com**
-- **[Tech Blog](https://velog.io/@mraz3068)**
-- **[LinkedIn](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%9D%B4-ab2467220/)**
 
 ### Tech Stacks
 #### Main Stack
@@ -132,4 +135,3 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{easyhooon}?pet-id=1" width="1000" height="120"/>
 </a>
-
