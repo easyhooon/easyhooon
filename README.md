@@ -12,8 +12,16 @@
 
 ### **Writing**
 
-- **[Tech Blog](https://velog.io/@mraz3068)**
 - **[LinkedIn](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%9D%B4-ab2467220/)**
+- **[Tech Blog](https://velog.io/@mraz3068)**
+
+[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/mraz3068?theme=dark&posts=3)](https://velog.io/@mraz3068/posts)
+
+- [Metro 분석](https://velog.io/@mraz3068/series/Metro)
+- [IT 동아리 면접관 후기](https://velog.io/@mraz3068/IT-Club-Interviewer-Review)
+- [[Compose] retain API](https://velog.io/@mraz3068/Compose-Retain-API)
+- [반다라트 iOS 앱 출시 완료!](https://velog.io/@mraz3068/Bandalart-iOS-App-Deployment-Complete)
+- [Circuit 분석](https://velog.io/@mraz3068/series/Circuit)
 
 ### **Contact & Channel**
 
@@ -102,15 +110,6 @@
 
 ### **Awards**
 - [한국관광공사 x 카카오 2024 관광데이터 활용 공모전](https://www.2024tourapi.com/) 장려상(강원관광재단 특별상)
-
-### Latest Blog Article
-[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/mraz3068?theme=dark&posts=3)](https://velog.io/@mraz3068/posts)
-
-- [Metro 분석](https://velog.io/@mraz3068/series/Metro)
-- [IT 동아리 면접관 후기](https://velog.io/@mraz3068/IT-Club-Interviewer-Review)
-- [[Compose] retain API](https://velog.io/@mraz3068/Compose-Retain-API)
-- [반다라트 iOS 앱 출시 완료!](https://velog.io/@mraz3068/Bandalart-iOS-App-Deployment-Complete)
-- [Circuit 분석](https://velog.io/@mraz3068/series/Circuit)
 
 ### Speaker Deck
 - https://speakerdeck.com/easyhooon
