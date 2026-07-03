@@ -25,6 +25,7 @@
 ### **Contact & Channel**
 
 - **Email: mraz3068@gmail.com**
+- **Resume: [github.com/easyhooon/resume](https://github.com/easyhooon/resume)**
 
 ### Tech Stacks
 #### Main Stack
