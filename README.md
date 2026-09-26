@@ -82,6 +82,7 @@
 - Android - [Traveler](https://github.com/heeheejj/Android-Traveler) : 장소기반 여행 일정관리 서비스
 
 ### Open Source Project
+- Maintainer - [windowinsets.info](https://github.com/easyhooon/windowinsets.info)
 - Maintainer - [dari](https://github.com/easyhooon/dari)
 - Maintainer - [ding](https://github.com/easyhooon/ding)
 - Maintainer - [RoutePeek](https://github.com/easyhooon/routepeek)
