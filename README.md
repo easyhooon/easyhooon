@@ -89,6 +89,7 @@
 - Maintainer - [qwerty2hangul](https://github.com/easyhooon/qwerty2hangul)
 <br>
 
+- Contributor - [Necto](https://github.com/toss/necto) · Android SDK 및 플러그인 기여 ([#30](https://github.com/toss/necto/pull/30), [#31](https://github.com/toss/necto/pull/31), [#32](https://github.com/toss/necto/pull/32), Android 지원 브랜치 병합)
 - Contributor - [compose-camera](https://github.com/l2hyunwoo/compose-camera) [PR](https://github.com/l2hyunwoo/compose-camera/pull/37)
 - Contributor - [pokedex-compose](https://github.com/skydoves/pokedex-compose) [PR](https://github.com/skydoves/pokedex-compose/pull/47)
 - Contributor - [cahier](https://github.com/android/cahier) [PR](https://github.com/android/cahier/pull/26)
